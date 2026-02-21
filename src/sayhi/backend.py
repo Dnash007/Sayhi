@@ -9,4 +9,4 @@ def add_bubble(animal):
     if animal_func:
         print(animal_func())
     else:
-        print(f"Animal '{animal}' not found :()")
+        print(f"Animal '{animal}' not found :(")
